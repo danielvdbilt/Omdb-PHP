@@ -1,6 +1,12 @@
 # Omdb-PHP
 PHP API for omdb movie database with: movie info, imdb scores and rotten tomatoes scores
 
+## Download
+
+Add the library with composer
+
+composer require danielvdbilt/omdb-php
+
 ## Usages
 
 Finding movie by title, year is optional
