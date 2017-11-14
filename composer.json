@@ -1,0 +1,8 @@
+{
+    "name": "danielvdbilt/omdb-php",
+    "description": "PHP API for omdb movie database with: movie info, imdb scores and rotten tomatoes scores",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
+    }
+}
