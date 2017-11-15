@@ -1,5 +1,5 @@
 # Omdb-PHP
-PHP API for omdb movie database with: movie info, imdb scores and rotten tomatoes scores
+PHP API for omdb movie database with: movie info, imdb scores and rotten tomatoes scores. Sign up as Patron at http://www.omdbapi.com/ for API calls and movie posters.
 
 ## Download
 
